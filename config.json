@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Covell Nails Spa",
+        "slug"      : "covell-nails-spa",
+        "phone"     : "405 340-0404",
+        "email"     : "nl1426@att.net",
+        "address"   : "1260 W Covell Rd Ste 116, Edmond, Oklahoma 73003",
+        "time_1"    : "Mon - Sat: 10:00 AM - 07:00 PM",
+        "time_2"    : "Sun: 12:00 PM - 06:00 PM"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/covellnailspa/",
+        "instagram" :   "https://www.instagram.com/covellnailspa/",
+        "google"    :   "https://goo.gl/maps/JQSYy2hXXvKWpsxz8", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk3OTF8Y292ZWxsMTI2MHxPS18wODE0NnxhY2I5ZDI3YTk3MDFhOGM4OWIwYjFlNzJhYWJjMWQ3Yg==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12963.34158967669!2d-97.4999917!3d35.6810548!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd83b998cdba1b626!2sCovell%20Nails%20Spa!5e0!3m2!1svi!2s!4v1668507003380!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#FFB03B",
+        "primary_light"         :   "#bda066",
+        "primary_hover"         :   "#8d5f1b",
+        "secondary"             :   "#8E2800",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "assets/images",
+    "domain":       "http://127.0.0.1:5500/"
+}
